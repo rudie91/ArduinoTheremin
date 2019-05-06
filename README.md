@@ -3,4 +3,5 @@
 Used two reference libraries for those sensors: </br>
 1) https://github.com/microflo/NewPing : ultrasonic sensor (HC-SR04) </br>
 2) https://github.com/pololu/vl53l0x-arduino : ToF distance sensor (VL53L0X) </br>
-Sound design was performed in MAX/MSP
+Sound design was performed in MAX/MSP </br>
+<video src="Theremin_Demo.mp4" width="320" height="200" controls preload></video>
